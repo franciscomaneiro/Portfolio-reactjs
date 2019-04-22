@@ -1,0 +1,29 @@
+.Tarjeta-main {
+  background-color: #3561c6;
+  border-radius: 0 0 8px 8px;
+  padding: 1em;
+  color: white;
+  width: 100%;
+}
+.Tarjeta-header {
+  border-bottom: solid;
+}
+.Tarjeta-name {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  padding-top: 1em;
+}
+.Tarjeta-imgAvatar span {
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.Tarjeta_imgAvatar-img {
+  display: flex;
+  padding-top: 1em;
+  border-radius: 3em;
+  width: 150px;
+  height: 150px;
+}

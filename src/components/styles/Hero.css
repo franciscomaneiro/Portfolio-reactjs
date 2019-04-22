@@ -1,0 +1,9 @@
+.Hero_main {
+  display: flex;
+  justify-content: center;
+  background-color: #f99e54;
+}
+.Hero_main-img {
+  width: 50%;
+  height: 30%;
+}

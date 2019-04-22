@@ -1,0 +1,11 @@
+.Navbar_header {
+  background-color: #e26b09;
+  width: 100%;
+  height: 30%;
+  color: white;
+}
+.Navbar_header-img {
+  margin: 0.5em 1em 0.5em 1em;
+  width: 3em;
+  height: 3em;
+}
